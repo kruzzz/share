@@ -2,7 +2,7 @@
 <body background='pattern (2).png'>	
 <ul>
 	<li>
-		<a href = '#first'>первая</a>
+		<a href = '#first'>первая таблица</a>
 	</li>
 	<li>
 		<a href = '#second'>вторая</a>
