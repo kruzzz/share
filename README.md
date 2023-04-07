@@ -1,7 +1,4 @@
-<html>
-<head>	
-	<title>TABLE</title>
-</head>
+
 <body background='pattern (2).png'>	
 <ul>
 	<li>
